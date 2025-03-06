@@ -1,0 +1,42 @@
+Time,current_seq,waypoints
+1729690889.4084046,0,"[frame: 0
+command: 16
+is_current: False
+autocontinue: True
+param1: 0.0
+param2: 0.0
+param3: 0.0
+param4: 0.0
+x_lat: 33.637083
+y_long: 72.9912595
+z_alt: 547.760009765625, frame: 3
+command: 16
+is_current: False
+autocontinue: True
+param1: 0.0
+param2: 0.0
+param3: 0.0
+param4: 0.0
+x_lat: 33.6377706
+y_long: 72.9936737
+z_alt: 20.0, frame: 3
+command: 16
+is_current: False
+autocontinue: True
+param1: 3.0
+param2: 0.0
+param3: 0.0
+param4: 0.0
+x_lat: 33.6392065
+y_long: 72.9976863
+z_alt: 20.0, frame: 3
+command: 21
+is_current: False
+autocontinue: True
+param1: 0.0
+param2: 0.0
+param3: 0.0
+param4: 1.0
+x_lat: 33.6378052
+y_long: 72.9936254
+z_alt: 0.0]"

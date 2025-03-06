@@ -1,0 +1,2 @@
+Time,header.seq,header.stamp.secs,header.stamp.nsecs,header.frame_id,position.latitude,position.longitude,position.altitude
+1729403523.4322135,2,1729403523,431398079,earth,1551715.1371794483,5080676.875697638,3518896.666512837

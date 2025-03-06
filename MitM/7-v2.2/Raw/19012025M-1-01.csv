@@ -1,0 +1,9 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+DC:A6:32:6D:2D:9B, 2025-01-19 16:17:26, 2025-01-19 16:18:34, 11,  65, WPA2, CCMP, PSK, -54,      246,     6641,   0.  0.  0.  0,   7, clover1, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+00:C0:CA:B5:53:1F, 2025-01-19 16:17:26, 2025-01-19 16:18:33, -15,     5831, DC:A6:32:6D:2D:9B,
+D8:3A:DD:A4:F8:E5, 2025-01-19 16:17:26, 2025-01-19 16:18:34, -55,      432, DC:A6:32:6D:2D:9B,
+1C:61:B4:64:14:48, 2025-01-19 16:17:26, 2025-01-19 16:18:34, -12,      811, DC:A6:32:6D:2D:9B,
+

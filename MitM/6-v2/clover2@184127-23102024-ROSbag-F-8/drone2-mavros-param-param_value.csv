@@ -1,0 +1,3 @@
+Time,header.seq,header.stamp.secs,header.stamp.nsecs,header.frame_id,param_id,value.integer,value.real,param_index,param_count
+1729690917.1250749,2433,1729690917,124462769,,STAT_FLTTIME,26601,0.0,696,1000
+1729690917.1349053,2434,1729690917,134454899,,STAT_RUNTIME,691423,0.0,697,1000

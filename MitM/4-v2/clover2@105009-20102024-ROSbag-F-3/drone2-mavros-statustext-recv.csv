@@ -1,0 +1,2 @@
+Time,header.seq,header.stamp.secs,header.stamp.nsecs,header.frame_id,severity,text
+1729403523.4337888,59,1729403523,433057950,,4,Warning: Arming Checks Disabled

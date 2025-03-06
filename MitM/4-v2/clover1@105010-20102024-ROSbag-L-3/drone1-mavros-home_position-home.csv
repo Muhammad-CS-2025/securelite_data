@@ -1,0 +1,2 @@
+Time,header.seq,header.stamp.secs,header.stamp.nsecs,header.frame_id,geo.latitude,geo.longitude,geo.altitude,position.x,position.y,position.z,orientation.x,orientation.y,orientation.z,orientation.w,approach.x,approach.y,approach.z
+1729403412.219868,1,1729403118,329199472,,33.6978678,73.0165512,512.3701048952612,0.0,0.0,0.0,nan,nan,nan,nan,0.0,0.0,-0.0
